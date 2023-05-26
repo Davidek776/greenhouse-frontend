@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GreenHouse/static/css/main.fb0bbecd.css",
-    "main.js": "/GreenHouse/static/js/main.7858d894.js",
-    "static/js/787.e7ce4244.chunk.js": "/GreenHouse/static/js/787.e7ce4244.chunk.js",
-    "index.html": "/GreenHouse/index.html",
-    "main.fb0bbecd.css.map": "/GreenHouse/static/css/main.fb0bbecd.css.map",
-    "main.7858d894.js.map": "/GreenHouse/static/js/main.7858d894.js.map",
-    "787.e7ce4244.chunk.js.map": "/GreenHouse/static/js/787.e7ce4244.chunk.js.map"
+    "main.css": "/greenhouse-frontend/static/css/main.fb0bbecd.css",
+    "main.js": "/greenhouse-frontend/static/js/main.27c8d9ea.js",
+    "static/js/787.e7ce4244.chunk.js": "/greenhouse-frontend/static/js/787.e7ce4244.chunk.js",
+    "index.html": "/greenhouse-frontend/index.html",
+    "main.fb0bbecd.css.map": "/greenhouse-frontend/static/css/main.fb0bbecd.css.map",
+    "main.27c8d9ea.js.map": "/greenhouse-frontend/static/js/main.27c8d9ea.js.map",
+    "787.e7ce4244.chunk.js.map": "/greenhouse-frontend/static/js/787.e7ce4244.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb0bbecd.css",
-    "static/js/main.7858d894.js"
+    "static/js/main.27c8d9ea.js"
   ]
 }
