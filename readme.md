@@ -8,4 +8,5 @@ The purpose of the project is to create web application for displaying temperatu
 
 <img 
      src="https://github.com/Davidek776/greenhouse-frontend/assets/62095094/0a4a3764-3f0a-4cc4-931c-4db2e51d1119">
-
+<img 
+     src="https://github.com/Davidek776/greenhouse-frontend/assets/62095094/c9423842-fdea-4e15-bce5-f37315c1e3f2">
