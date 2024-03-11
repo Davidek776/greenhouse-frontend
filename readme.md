@@ -3,7 +3,6 @@ This React web application was developed for the semester project. The project f
 
 # End Result
 <h3>Website is published <a href="[https://kasperky440.cz](https://ham222.github.io/greenhouse-frontend/#/login)">here</a></h3>
-![image](https://github.com/Davidek776/greenhouse-frontend/assets/62095094/0a4a3764-3f0a-4cc4-931c-4db2e51d1119)
 
 <img 
      src="https://github.com/Davidek776/greenhouse-frontend/assets/62095094/0a4a3764-3f0a-4cc4-931c-4db2e51d1119">
