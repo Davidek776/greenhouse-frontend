@@ -6,6 +6,5 @@ This React web application was developed for the semester project. The project f
 ![image](https://github.com/Davidek776/greenhouse-frontend/assets/62095094/0a4a3764-3f0a-4cc4-931c-4db2e51d1119)
 
 <img 
-     src="workspace/src/assets/images/icons/KasperkyScreen1.png"
-     alt="Grapefruit slice atop a pile of other slices">
+     src="https://github.com/Davidek776/greenhouse-frontend/assets/62095094/0a4a3764-3f0a-4cc4-931c-4db2e51d1119">
 
