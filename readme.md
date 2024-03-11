@@ -1,2 +1,11 @@
-//TODO write a good readme
-Branch naming convention: [feat/bug]-[user story number]-[short name of the task]
+# Intent
+This React web application was developed for the semester project. The project focuses on combining three teams: frontend, backend, and IoT. The purpose of the project is to create web application for displaying temperature, humidity and Co2 levels in a greenhouse. It has also a feature for toggling and scheduling the water system and creating custom presets for vegetables with specific thresholds. This application is connected using REST to Backend part of the project, which is eventually communicating with real IoT sensors and servo motor.
+
+# End Result
+<h3>Website is published <a href="[https://kasperky440.cz](https://ham222.github.io/greenhouse-frontend/#/login)">here</a></h3>
+![image](https://github.com/Davidek776/greenhouse-frontend/assets/62095094/0a4a3764-3f0a-4cc4-931c-4db2e51d1119)
+
+<img 
+     src="workspace/src/assets/images/icons/KasperkyScreen1.png"
+     alt="Grapefruit slice atop a pile of other slices">
+
