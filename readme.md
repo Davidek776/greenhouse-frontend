@@ -6,7 +6,9 @@ The purpose of the project is to create web application for displaying temperatu
 # End Result
 <h3>Website is published <a href="https://ham222.github.io/greenhouse-frontend/#/login">here</a></h3>
 
-<img 
-     src="https://github.com/Davidek776/greenhouse-frontend/assets/62095094/0a4a3764-3f0a-4cc4-931c-4db2e51d1119">
+
+<img width="1903" alt="Screenshot 2025-02-07 at 15 45 26" src="https://github.com/user-attachments/assets/61d8126c-d9f3-44f9-89f6-7501ca53b229" />
+
+     
 <img 
      src="https://github.com/Davidek776/greenhouse-frontend/assets/62095094/c9423842-fdea-4e15-bce5-f37315c1e3f2">
